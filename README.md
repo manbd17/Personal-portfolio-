@@ -1,3 +1,1 @@
-# Demo 2
-
-Some Text
+Personal Portfolio using Javascript and ReactJS
